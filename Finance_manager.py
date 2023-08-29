@@ -337,6 +337,3 @@ elif (ch==2):
 else:
     print("Invalid choice! ")
 cnx.close()
-
-
-Dhikshitha@8103
